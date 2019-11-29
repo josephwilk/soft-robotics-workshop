@@ -1,14 +1,21 @@
-# NOTES
+# Soft Robotics Workshop
 
-# Download Arduino
+## Arduino
+
+# Download Editor Arduino
 * https://www.arduino.cc/en/Main/Software
 
-# Example sketches
-* https://microedco.s3.amazonaws.com/index.html
-
 # Required I2C lib
-* https://github.com/DSSCircuits/I2C-Master-Library
+* https://github.com/josephwilk/soft-robotics-workshop/blob/master/files/I2C-Master-Library-master.zip
 
+- Sketch > Include Library > Add zip file
 
-# Processing
+* First simple basic LIDAR sketch: https://github.com/josephwilk/soft-robotics-workshop/blob/master/arduino/minimalRead.ino
+
+# More Example Arudino Lidar sketches
+* https://github.com/josephwilk/soft-robotics-workshop/tree/master/arduino
+
+# Processing Editor
 * https://processing.org/download/
+
+* Simple example: 
