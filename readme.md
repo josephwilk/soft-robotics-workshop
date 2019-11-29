@@ -1,11 +1,11 @@
 # Soft Robotics Workshop
 
-## Arduino
+# Arduino
 
-# Download Editor Arduino
+## Download Editor Arduino
 * https://www.arduino.cc/en/Main/Software
 
-# Required I2C lib
+## Required I2C lib
 * https://github.com/josephwilk/soft-robotics-workshop/blob/master/files/I2C-Master-Library-master.zip
 
 - Sketch > Include Library > Add zip file
@@ -15,7 +15,7 @@
 # More Example Arudino Lidar sketches
 * https://github.com/josephwilk/soft-robotics-workshop/tree/master/arduino
 
-# Processing Editor
-* https://processing.org/download/
+# Processing
 
-* Simple example: 
+* Processing Editor https://processing.org/download/
+* Simple example: https://github.com/josephwilk/soft-robotics-workshop/blob/master/processing/simple.pde
